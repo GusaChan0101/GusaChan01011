@@ -1,56 +1,63 @@
-# 👋 Olá, eu sou [Gustavo Simoncini]!
+# 👋 Olá, eu sou [Gusatavo Simoncini]!
 
-🎯 Desenvolvedor Java focado em construir projetos bem estruturados, com código limpo, uso real de estruturas de dados e boas práticas de programação.
+🎯 Desenvolvedor focado em **Java**, **JavaScript** e **MySQL**, apaixonado por criar projetos bem estruturados e resolver problemas com lógica e eficiência.
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Atualmente estudo e desenvolvo projetos em **Java**, com foco em backend, algoritmos e estrutura de dados.
-- 🚀 Busco sempre aplicar **boas práticas**, como:
-  - Organização modular do código
-  - Nomes claros e significativos
-  - Estruturas eficientes conforme o problema
-- 🛠️ Estou constantemente criando projetos para resolver problemas reais e melhorar minha lógica.
+- 💻 Trabalho principalmente com **Java** para backend, **JavaScript** para scripts e interações, e **MySQL** para modelagem de dados e queries eficientes.
+- 🚀 Tenho foco em:
+  - Código limpo e organizado
+  - Estruturas de dados aplicadas corretamente
+  - Modularização e reutilização de código
+- 🧠 Gosto de resolver problemas de lógica e criar projetos úteis e criativos.
+- 📚 Estou sempre aprendendo algo novo e praticando com projetos no GitHub.
 
 ---
 
 ## 💡 Tecnologias que uso
 
+### 🧱 Linguagens e Banco de Dados
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Ferramentas e IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-blue?style=for-the-badge&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📂 Projetos em destaque
 
-🌟 Veja alguns projetos meus com foco em Java:
+🌟 Alguns projetos que mostram como trabalho com lógica, estrutura de dados e organização:
 
 - [🧠 Simulador de Memória com IA](https://github.com/seu-usuario/simulador-memoria)  
   Lógica adaptativa em Java com manipulação de sequência e dificuldade dinâmica.
 
-- [📚 Sistema de Biblioteca](https://github.com/seu-usuario/sistema-biblioteca)  
-  Projeto completo com cadastro, empréstimo e devolução de livros usando estrutura de dados.
+- [📚 Sistema de Biblioteca com MySQL](https://github.com/seu-usuario/sistema-biblioteca)  
+  Backend Java com persistência de dados em MySQL e operações de empréstimo, devolução, cadastro.
 
 - [🔐 Gerador de Senhas Seguras](https://github.com/seu-usuario/gerador-senhas)  
-  Geração e análise de segurança com dicas personalizadas.
+  Projeto em JavaScript com análise de segurança em tempo real e geração automática de senhas.
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Entre em contato
 
-- ✉️ Email: [seuemail@email.com]  
+- ✉️ Email: [gustavo.simoncini5@gmail.com]  
 - 💼 LinkedIn: [linkedin.com/in/seu-usuario]  
-- 🧠 Portfólio (se tiver): [seudominio.com]
+- 🌐 Portfólio (se tiver): [seudominio.com]
 
 ---
 
-> _"Simplicidade é a sofisticação máxima."_ – Leonardo da Vinci
+> _"Transformar lógica em soluções é mais que programar: é criar."_  
